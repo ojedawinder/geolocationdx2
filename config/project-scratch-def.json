@@ -1,0 +1,7 @@
+{
+    "orgName": "winder Company",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
